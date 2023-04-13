@@ -1,0 +1,23 @@
+.nav{
+    margin: 25px 50px 75px 100px;
+    border: 1px solid;
+    background-color: rgb(194, 13, 158);
+} 
+
+.section{
+ margin:  25px 50px 75px;
+ border: 2px solid palevioletred; 
+ background-color: pink;
+}
+.article{
+    margin:  25px 50px;
+    border: solid burlywood;
+    background-color: crimson;
+
+}
+
+.footer{
+    border: solid blueviolet;
+    width: 300px;
+    margin: auto;
+}
